@@ -13,7 +13,9 @@ Kaynak kodun derlenmiş hali https://drive.google.com/file/d/1tvtZcLb_Sm-gQI8cXS
 
 Gereksinimler
 ---------------
-PyWin32, pynput, pyautogui, pyinstaller
+Gerekli kütüphaneler: PyWin32, pynput, pyautogui, pyinstaller
+
+Yüklemek için;
 
 >> pip install PyWin32
 
