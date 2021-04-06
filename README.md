@@ -59,7 +59,7 @@ Tesbiti engellemek için pyinput gibi çok kullanılan kütüphanelerden kaçın
 
 Kaynak Kodu Derlemek İçin
 ------------------------------
-pyinstaller --onefile --noconsole --icon=keyboard.ico keylogger.py
+>> pyinstaller --onefile --noconsole --icon=keyboard.ico keylogger.py
 
 Aşağıda PyCharm programı üzerinde nasıl derlendiği resim olarak gösterilmektedir.
 
