@@ -143,6 +143,6 @@ Windows 7, 8 , 10 işletim sistemlerinde sorunsuz şekilde çalıştı. Özellik
 
 Windows Defender İle Taratılma Sonucu
 ---------------------------------------
-Programın çalışması sırasında herhangi bir uyarı ile karşılaşılmadı. İlgili programın konumu gösterilerek, ayrıca güncel Windows Defender ile taratılmıştır. Aşağıda bu tarama sonucunun ekran görüntüsü konulmuştur.
+Programın çalışması sırasında herhangi bir uyarı ile karşılaşılmadı. İlgili programın konumu gösterilerek, özellikle güncel Windows Defender ile taratılmıştır. Aşağıda bu tarama sonucunun ekran görüntüsü mevcuttur.
 
 ![a6](https://user-images.githubusercontent.com/71177413/113767866-d94aaa80-9727-11eb-8ed4-e7ed7f3c7fd3.JPG)
