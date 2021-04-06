@@ -118,8 +118,8 @@ Aşağıda PyCharm programı üzerinde nasıl derlendiği resim olarak gösteril
 ![n11](https://user-images.githubusercontent.com/71177413/113766717-6b51b380-9726-11eb-8ede-2ed93dc06ba3.JPG)
 
 
-Keylogger Yazılımın Sanal  ve Gerçek İşletim Sistemlerinde Deneme
------------------------------------------------------------------
+Keylogger Yazılımını, Sanal  ve Gerçek İşletim Sistemlerinde Deneme
+---------------------------------------------------------------------------
 Windows 7, 8 , 10 işletim sistemlerinde sorunsuz şekilde çalıştı. Özellikle tüm güncelleştirmeleri yapılmış işletim sistemleri seçildi. Ayrıca Defender ve Virüs tarama programı bulunan cihazlarda sorunsuz çalıştığı gözlemlendi.
 
 
