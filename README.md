@@ -46,7 +46,7 @@ screen_log.py  ==> Sadece ekran görüntüsünü kaydeder.
 "pyinput" gibi hazır kütüphane kullanılmamıştır. Tarafımdan klavye fonksiyonu yazılmıştır. Klavye fonksiyonu, "Türkçe Q Klavye"ye göre yazılmıştır. Eğer herhangi
 farklılık yaşamanız durumda ilgili klavye fonksiyonundan düzeltebilirsiniz. Detaylı bilgi için "https://docs.microsoft.com/tr-tr/dotnet/api/system.windows.forms.keys?view=net-5.0" adresine bakınız.
 
-Kalıcılık için regedit girdisi kullanılmış olup, "wmic get service" gibi daha agresif methodlar kullanılmamıştır. Farklı amaçlarla kullanılmaması için özelikle regedit kullanılmış olup, program "local keylogger" olacak şekilde dizayn edilmiştir.
+Kalıcılık için regedit girdisi kullanılmış olup, "wmic service" gibi daha agresif methodlar kullanılmamıştır. Farklı amaçlarla kullanılmaması için özelikle regedit kullanılmış olup, program "local keylogger" olacak şekilde dizayn edilmiştir.
 
 Tesbiti engellemek için pyinput gibi çok kullanılan kütüphanelerden kaçınılmış olup, kaynak kodun içerisindeki "sleep()" kodları Defender'ı atlatmak için özellikle konulmuştur. Ve başarı olmuştur.
 
