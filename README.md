@@ -18,5 +18,5 @@ PyWin32, pynput, pyautogui, pyinstaller
 
 >> pip install pyinstaller
 
-#"pyinstaller" kodun tek parça çalıştırılabilir dosya haline getirmek için kullanılacak
+"pyinstaller" kodun tek parça çalıştırılabilir dosya haline getirmek için kullanılacak
 
