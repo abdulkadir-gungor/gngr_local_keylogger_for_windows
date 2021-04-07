@@ -69,7 +69,7 @@ Aşağıda PyCharm programı üzerinde nasıl derlendiği resim olarak gösteril
 ![n1](https://user-images.githubusercontent.com/71177413/113765887-8112a900-9725-11eb-9f99-2e4dc61dcb1e.JPG)
 
 
-[2 - Kaynak Kodun Derlenmiş Hali] Oluşturulan dist klasörü içerisinnde kaynak kodun derlenmiş hali bulunur.
+[2 - Kaynak Kodun Derlenmiş Hali] Oluşturulan dist klasörü içerisinde kaynak kodun derlenmiş hali bulunur.
 
 ![n3](https://user-images.githubusercontent.com/71177413/113766053-ae5f5700-9725-11eb-9413-3b5b7af39eac.JPG)
 
