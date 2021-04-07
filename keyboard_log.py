@@ -324,7 +324,7 @@ if __name__ == '__main__':
                         elif key.Key_Code == 39:
                             r_key = "<{RIGHT}>"
                         elif key.Key_Code == 40:
-                            r_key = "<{LEFT}>"
+                            r_key = "<{DOWN}>"
                         else:
                             r_key = "<{ALT_GR+KEY_CODE:" + str(key.Key_Code) + "}>"
                     else:
@@ -335,7 +335,7 @@ if __name__ == '__main__':
                         elif key.Key_Code == 39:
                             r_key = "<{RIGHT}>"
                         elif key.Key_Code == 40:
-                            r_key = "<{LEFT}>"
+                            r_key = "<{DOWN}>"
                         else:
                             r_key = "<{ALT+KEY_CODE:" + str(key.Key_Code) + "}>"
             #
