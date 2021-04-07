@@ -64,7 +64,7 @@ Kaynak Kodu Derlemek İçin
 Aşağıda PyCharm programı üzerinde nasıl derlendiği resim olarak gösterilmektedir.
 
 
-[1]
+[1] Derleme işlemi
 
 ![n1](https://user-images.githubusercontent.com/71177413/113765887-8112a900-9725-11eb-9f99-2e4dc61dcb1e.JPG)
 
@@ -77,6 +77,7 @@ Aşağıda PyCharm programı üzerinde nasıl derlendiği resim olarak gösteril
 
 "Winrar" Programı İle Keylogger Programını Setup Haline Getirme
 ------------------------------------------------------------------
+İşlemler resim olarak,  aşağıda sıralı şekilde gösterilmiştir.
 
 [1]
 
