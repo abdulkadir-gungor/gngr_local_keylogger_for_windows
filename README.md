@@ -50,7 +50,7 @@ farklılık yaşamanız durumda ilgili klavye fonksiyonundan düzeltebilirsiniz.
 
 Kalıcılık için regedit girdisi kullanılmış olup, "wmic service" gibi daha agresif methodlar kullanılmamıştır. Farklı amaçlarla kullanılmaması için özellikle regedit kullanılmış olup, program "local keylogger" olacak şekilde dizayn edilmiştir.
 
-Tesbiti engellemek için pyinput gibi çok kullanılan kütüphanelerden kaçınılmış olup, kaynak kodun içerisindeki "sleep()" kodları Defender'ı atlatmak için özellikle konulmuştur. Sonucu başarılı olmuştur. Bu sebepten "keylogger.py" kaynak kodu kullanılarak oluşturulan "exe" dosyalar, 4-5 dk sonra tam olarak çalışmaya başlar. Windows Defender sadece kaynak kodun imzasına bakmaz (sadece içerisinde zararlı kod aramaz), aynı zamanda davranışını da inceler. "sleep()"  kodları, Windows Defender programının zararlı davranış kalıplarının atlatılmasını sağlar. 
+Tesbiti engellemek için pyinput gibi çok kullanılan kütüphanelerden kaçınılmış olup, kaynak kodun içerisindeki "sleep()" kodları Defender'ı atlatmak için özellikle konulmuştur. Sonucu başarılı olmuştur. Bu sebepten "keylogger.py" kaynak kodu kullanılarak oluşturulan "exe" dosyalar, 4-5 dk sonra tam olarak çalışmaya başlar. Windows Defender sadece kaynak kodun imzasına bakmaz (sadece içerisinde zararlı kod aramaz), aynı zamanda davranışını da inceler. "sleep()"  kodları, Windows Defender programında kullanılan zararlı davranış kalıplarının atlatılmasını sağlar. 
  
 ![a1](https://user-images.githubusercontent.com/71177413/113765165-94714480-9724-11eb-9a44-7d8535f49036.JPG)
 
