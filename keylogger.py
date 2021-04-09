@@ -1,3 +1,14 @@
+############################################################################
+#
+#   Gngr Local Keylogger
+#   © 2021 ABDULKADİR GÜNGÖR All Rights Reserved
+#   Contact email address: abdulkadir_gungor@outlook.com
+#
+#	Developper:	Abdulkadir GÜNGÖR (abdulkadir_gungor@outlook.com)
+#	Date:	04/2021
+#	All Rights Reserved (Tüm Hakları Saklıdır)
+#
+############################################################################
 from collections import namedtuple
 import os, time, winreg, pyautogui, _thread
 
