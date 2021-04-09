@@ -147,3 +147,12 @@ Windows 7, 8 , 10 işletim sistemlerinde sorunsuz şekilde çalıştı. Özellik
 Windows Defender İle Taratılma Sonucu
 ---------------------------------------
 Programın çalışması sırasında herhangi bir uyarı ile karşılaşılmadı. İlgili programın konumu gösterilerek, özellikle güncel Windows Defender ile taratılmıştır. "06/04/2021" tarihi itibarıyla Defender programı herhangi bir uyarı vermemiştir. Güncellemelerle beraber zamanla bu durum değişebilir.
+
+
+Yasal Uyarı
+--------------
+Eğitim amacıyla hazırlanmıştır.
+
+Kullanıcıların bazı kullanım şekilleri suça sebep olabilir.
+
+Olumsuz durumlarla karşılaşmamak için "Yasal_Uyarı.txt" dosyasını okuyunuz.
