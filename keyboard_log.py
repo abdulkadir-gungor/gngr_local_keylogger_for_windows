@@ -42,7 +42,7 @@ def start_program():
         pass
 
 def keyboard_listen():
-    from ctypes import windll, CFUNCTYPE, POINTER, c_int, c_void_p, byref
+    from ctypes import windll, CFUNCTYPE, POINTER, c_long, c_void_p, byref
     import win32con, win32api, win32gui, atexit
     #
     event_types = {win32con.WM_KEYDOWN: 'Key Down',
@@ -62,7 +62,7 @@ def keyboard_listen():
         return windll.user32.CallNextHookEx(hook_id, nCode, wParam, lParam)
 
     #
-    CMPFUNC = CFUNCTYPE(c_int, c_int, c_int, POINTER(c_void_p))
+    CMPFUNC = CFUNCTYPE(c_long, c_long, c_long, POINTER(c_void_p))
     pointer = CMPFUNC(low_handler)
     #
     hook_id = windll.user32.SetWindowsHookExA(win32con.WH_KEYBOARD_LL, pointer,
